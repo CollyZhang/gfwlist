@@ -8038,3 +8038,8 @@ ultrasurf
 @@|http://ime.baidu.jp
 !################Whitelist End##################
 !---------------------EOF-----------------------
+!-----------------Custom list-------------------
+.vcb-s.com
+||vcb-s.com
+.tidal.com
+||tidal.com
